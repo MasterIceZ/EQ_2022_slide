@@ -10,6 +10,7 @@
     "@slidev/cli": "^0.33.0",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
+    "playwright-chromium": "^1.22.2",
     "slidev-theme-geist": "^0.8.1"
   }
 }
