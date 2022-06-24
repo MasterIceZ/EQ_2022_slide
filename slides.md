@@ -3,7 +3,6 @@ theme: geist
 class: 'text-center'
 highlighter: shiki
 lineNumbers: true
-download: true
 drawings:
   persist: false
 ---
