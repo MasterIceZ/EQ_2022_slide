@@ -7,13 +7,11 @@ drawings:
   persist: false
 ---
 
-<!--
-# This is First Page
-
-# เธอบอกเธอชอบคนเขียนโค้ดเรา printf("Hello World"); ได้นะเธอชอบมั๊ย
--->
-
 # Hello World
+
+<div class="text-xl abs-br m-5 flex gap-2">
+	GALILE#15
+</div>
 
 ---
 
@@ -165,6 +163,7 @@ In this case, output might be:
 24
 25
 ```
+
 ---
 
 ---
